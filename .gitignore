@@ -25,4 +25,5 @@ logs
 upload
 target
 tale.sql
-*.md
+*.md!/src/main/resources/application.yml
+!/src/main/resources/blog.ymj68520.top.pfx
