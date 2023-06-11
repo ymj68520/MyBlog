@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class TomcatConfig {
     @Bean
-    public EmbeddedServletContainerFactory servletContainer() {
+    public TomcatEmbeddedServletContainerFactory servletContainer() {
         TomcatEmbeddedServletContainerFactory tomcat = new TomcatEmbeddedServletContainerFactory() {
 
             @Override
