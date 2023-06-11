@@ -1,6 +1,6 @@
 ## Blog
 
-Fork from [blog]([zhisheng17/blog: SpringBoot + Mybatis + thymeleaf 搭建的个人博客 http://www.54tianzhisheng.cn/ (github.com)](https://github.com/zhisheng17/blog)) , 该作者基于 [My Blog](https://github.com/ZHENFENG13/My-Blog) 项目修改。
+Fork from [blog](https://github.com/zhisheng17/blog) , 该作者基于 [My Blog](https://github.com/ZHENFENG13/My-Blog) 项目修改。
 
  [My Blog](https://github.com/ZHENFENG13/My-Blog) , 是该作者在 [Tale](https://github.com/otale/tale) 博客系统基础上进行修改的。
 
