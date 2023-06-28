@@ -28,3 +28,4 @@ tale.sql
 *.md!/src/main/resources/application.yml
 !/src/main/resources/blog.ymj68520.top.pfx
 !/src/main/resources/application-jdbc.properties
+
